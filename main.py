@@ -14,7 +14,7 @@ async def start(client, message):
         [
             [
                 InlineKeyboardButton("Owner", url="https://t.me/AliMehdiAbdi"),
-                InlineKeyboardButton("Repo", url="https://t.me/")
+                InlineKeyboardButton("Repo", url="https://github.com/DeadMan30/telegram-joke-bot")
             ]
         ]
     )
