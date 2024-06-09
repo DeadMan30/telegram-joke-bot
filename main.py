@@ -34,8 +34,6 @@ async def joke(client, message):
         if response.status_code == 200:
             joke = response.text
             await message.reply_text(joke)
-        else:
-            await message.reply_text("Sorry, I couldn't fetch a joke right now.")
     except Exception as e:
         await message.reply_text("Sorry, I couldn't fetch a joke right now.")
 
