@@ -19,7 +19,7 @@ Before setting up the bot, make sure you have the following:
 ### Installation
 
 1. Clone or download the repository from GitHub.
-2. Install the required dependencies listed in the `requirements.txt` file using pip:pip install -r requirements.txt
+2. Install the required dependencies listed in the `requirements.txt` file using pip: pip install -r requirements.txt
 3. Replace the placeholders in the `bot.py` file with your actual API ID, API hash, and bot token.
 
 ## Usage
